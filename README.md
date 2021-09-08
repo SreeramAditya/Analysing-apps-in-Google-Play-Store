@@ -1,4 +1,4 @@
-# Analysing-apps-in-Google-Play-Store
+# Analyzing Google Apps Store dataset in terms of App downloads and Rating.
 
 The objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product
 
