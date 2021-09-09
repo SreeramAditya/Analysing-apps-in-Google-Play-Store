@@ -10,6 +10,8 @@ Performed :
 
 3.Data Visualization
 
+4. Also used built a dashboard using tableau
+
 Data Directory: It contains Dataset for the analysis. It has googleplaystore.csv which contains informationa about the Apps and googleplaystore_user_reviews.csv contains reviews about the App.
 
 Notebook contains all the steps done in chronological order:
@@ -49,3 +51,7 @@ Lowest rated geners
 ![image](https://user-images.githubusercontent.com/76734615/132552167-c6e754fb-52c6-41f8-b933-dded8fda56d5.png)
 
 ![image](https://user-images.githubusercontent.com/76734615/132552221-ada13a84-0446-4c0f-949c-7cf40c7d7bec.png)
+
+Tabeau dashboard
+
+![image](https://user-images.githubusercontent.com/76734615/132703838-be6f365c-76fd-48e0-9128-6721f8e4eba2.png)
