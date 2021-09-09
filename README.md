@@ -10,7 +10,7 @@ Performed :
 
 3.Data Visualization
 
-Data Directory: It contains Dataset for the analysis. It has apps.csv which contains informationa about the Apps and user_reviews.csv contains reviews about the App.
+Data Directory: It contains Dataset for the analysis. It has googleplaystore.csv which contains informationa about the Apps and googleplaystore_user_reviews.csv contains reviews about the App.
 
 Notebook contains all the steps done in chronological order:
 
