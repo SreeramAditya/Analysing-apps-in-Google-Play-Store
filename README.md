@@ -3,11 +3,18 @@
 The objective of this project is to deliver insights to understand customer demands better and thus help developers to popularize the product
 
 Performed :
+
 1.Data Cleaning
 
 2.Exploratry Data Analysis 
 
 3.Data Visualization
+
+Data Directory: It contains Dataset for the analysis. It has apps.csv which contains informationa about the Apps and user_reviews.csv contains reviews about the App.
+
+Notebook contains all the steps done in chronological order:
+
+Data Loading -> Data Cleaning -> Feature Extraction -> Feature Engineering -> Exploratory Data Analysis -> Data Exploration!
 
 Sample outputs:
 
