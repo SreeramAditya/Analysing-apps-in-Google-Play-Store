@@ -16,7 +16,7 @@ Data Directory: It contains Dataset for the analysis. It has googleplaystore.csv
 
 Notebook contains all the steps done in chronological order:
 
-Data Loading -> Data Cleaning -> Feature Extraction -> Feature Engineering -> Exploratory Data Analysis -> Data Exploration!
+Data Loading -> Data Cleaning -> Feature Extraction -> Feature Engineering -> Exploratory Data Analysis -> Data visualization
 
 Sample outputs:
 
